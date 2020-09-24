@@ -12,5 +12,4 @@ class Backer
     project.backers << self
   end
   
-  
 end
